@@ -1,0 +1,13 @@
+t20-worldcup-analytics/
+│── main.py
+│── preprocess.py
+│── analysis.py
+│── requirements.txt
+│── README.md
+│── .gitignore
+│
+├── data/
+│   └── t20.csv
+│
+└── .github/workflows/
+    └── python.yml
